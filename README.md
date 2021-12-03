@@ -46,3 +46,6 @@ PS: Once installed, the following commands should be accessible: npm, adb and ff
 4. Wait for video to upload and transmux into sd and hd versions
 5. The new video will be shown on the UI. You can choose Auto, SD or HD and play the video
 6. You can repeat steps 1-5 to keep adding more videos
+
+## Royalt Free Assets used
+1. [Pexels - A woman walking in field of flowers](https://www.pexels.com/video/a-woman-walking-in-the-field-of-flowers-5642529/)
